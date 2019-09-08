@@ -8,7 +8,7 @@ keyword: Best Test Script
 <div id="`{{ page.keyword | slugify  }}`-quick-navigation"> 
     <div class="quick-nav-center-top">
         <ul id="{{ page.keyword | slugify  }}-ul">
-            <a onclick="showproductlistdropdown()">Show Content&ensp;<i class="arrow down"></i></a>
+            <a onclick="showproductlistdropdown()">Show Content<i class="arrow down"></i></a>
     </div>     
     <h3 class="regular-text">{{ page.keyword }}</h3> 
     <div id="best-product-list-div"> 
