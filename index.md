@@ -3,7 +3,7 @@
 # edit the product list in csv, or edits products in yml and change data.product to data.products
 
 layout: 
-keyword: Best Test Script
+keyword: New Table of Content Generator
 ---
 <div id="`{{ page.keyword | slugify  }}`-quick-navigation"> 
     <div class="quick-nav-center-top">
